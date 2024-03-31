@@ -1096,7 +1096,7 @@ header .row {
 header .top-bar {
     border-radius: 50px;
     display: block;
-    background: #101010;
+    background: #494949;
     min-width: 220px;
     min-height: 66px;
     position: absolute;
@@ -1120,7 +1120,7 @@ header .logo a {
     color: transparent;
     width: 184px; /* Doubled width to enlarge */
     height: 30px; /* Doubled height to enlarge */
-    background: url("../images/JKLOGO.png") no-repeat center;
+    background: url("../images/intro-bg.jpg") no-repeat center;
     background-size: contain; /* Ensure the background image is contained within the dimensions */
 }
 
@@ -1311,10 +1311,10 @@ header .logo a {
     left: 0;
     width: 100%;
     height: 100%;
-    background: url(../images/JKLOGO.png) no-repeat center;
+    background: url(../images/wallpaperr.png) no-repeat center;
     background-size: cover;
     background-attachment: fixed;
-    filter: blur(5px); /* Adjust blur intensity as needed */
+    filter: blur(2px); /* Adjust blur intensity as needed */
     z-index: -1;
 }
 
@@ -2116,7 +2116,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #services {
-	background: #313131 url(../images/bg2.jpg) no-repeat center;
+	background: #313131 url(../images/bg.jpg) no-repeat center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
